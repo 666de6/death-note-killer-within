@@ -1,15 +1,15 @@
-# Death Note Killer Within: The Ultimate Social Deduction Game
+# DEATH NOTE Killer Within: The Ultimate Social Deduction Game
 
-Welcome to the fan site for Death Note Killer Within, a thrilling multiplayer social deduction game that brings the psychological warfare of Death Note into an intense gaming experience. Visit [Death Note Killer Within](https://deathnotekillerwithin.org/) to learn more about the game and join the community.
+Welcome to the fan site for DEATH NOTE Killer Within, a thrilling multiplayer social deduction game that brings the psychological warfare of DEATH NOTE into an intense gaming experience. Visit [DEATH NOTE Killer Within](https://deathnotekillerwithin.org/) to learn more about the game and join the community.
 
 ## Game Overview
 
-Death Note Killer Within is a multiplayer social deduction game where players engage in a battle of wits, deception, and strategy. Set in the Death Note universe, players must navigate complex social dynamics while trying to achieve their secret objectives.
+DEATH NOTE Killer Within is a multiplayer social deduction game where players engage in a battle of wits, deception, and strategy. Set in the DEATH NOTE universe, players must navigate complex social dynamics while trying to achieve their secret objectives.
 
 ### Key Features
 
 - **Intense Social Deduction**: Up to 10 players engage in psychological warfare
-- **Multiple Character Roles**: Play as iconic Death Note characters
+- **Multiple Character Roles**: Play as iconic DEATH NOTE characters
 - **Cross-Platform Multiplayer**: Available on PC and PlayStation
 - **Strategic Gameplay**: Use deduction, deception, and detective work
 - **Customization Options**: Personalize your character and experience

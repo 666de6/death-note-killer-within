@@ -1,7 +1,7 @@
 {
-  "name": "WEBFISHING",
+  "name": "DEATH NOTE Killer Within",
   "version": "1.0.0",
-  "description": "WEBFISHING: Your Ultimate Multiplayer Fishing Adventure",
+  "description": "DEATH NOTE Killer Within: The Ultimate Multiplayer Social Deduction Game",
   "scripts": {
     "build": "eleventy",
     "serve": "eleventy --serve",
