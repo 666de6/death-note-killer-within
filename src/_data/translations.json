@@ -8,6 +8,10 @@
           "url": "/"
         },
         {
+          "title": "Blog",
+          "url": "/blogentry/"
+        },
+        {
           "title": "Download",
           "url": "/#download"
         },
@@ -36,7 +40,20 @@
     "privacy": {
       "title": "Privacy Policy | DEATH NOTE Killer Within",
       "description": "Privacy policy for DEATH NOTE Killer Within. Learn how we protect your information while you explore our content about this thrilling social deduction game."
+    },
+    "blogentry": {
+      "title": "DEATH NOTE Killer Within Game Guides & Strategy",
+      "description": "Comprehensive strategy guides for DEATH NOTE Killer Within. Master the art of deduction and deception in this thrilling social deduction game."
+    },
+    "kira-guide": {
+      "title": "DEATH NOTE Killer Within Kira Role Strategy Guide",
+      "description": "Master the art of playing as Kira in DEATH NOTE Killer Within. Learn advanced strategies, timing techniques, and psychological warfare tactics to outsmart the investigation team."
+    },
+    "L-guide": {
+      "title": "DEATH NOTE Killer Within L's Investigation Team Guide",
+      "description": "Lead the investigation as L in DEATH NOTE Killer Within. Learn essential detective strategies, team coordination techniques, and how to effectively hunt down Kira."
     }
+
   },
   "fr": {
     "basic": {
