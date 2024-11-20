@@ -12,6 +12,10 @@
           "url": "/blogentry/"
         },
         {
+          "title": "Price",
+          "url": "/price/"
+        },
+        {
           "title": "Download",
           "url": "/#download"
         },
@@ -52,6 +56,10 @@
     "L-guide": {
       "title": "DEATH NOTE Killer Within L's Investigation Team Guide",
       "description": "Lead the investigation as L in DEATH NOTE Killer Within. Learn essential detective strategies, team coordination techniques, and how to effectively hunt down Kira."
+    },
+    "price": {
+      "title": "DEATH NOTE Killer Within Price",
+      "description": "The full list of DEATH NOTE Killer Within price. Include editions and exclusive add-ons. From the Standard Edition to customization options."
     }
 
   },
